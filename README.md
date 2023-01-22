@@ -1,16 +1,26 @@
-### Hi there 👋
+## D A B U M A N A :blowfish:
 
-<!--
-**dabumana/dabumana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Part of the work in progress can be found in: https://dabumana.github.io/projects
 
-Here are some ideas to get you started:
+---
+<a href="https://dabumana.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dabumana&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Dabumana's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://dabumana.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabumana&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://dabumana.github.io">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabumana&theme=dark" />
+</a>
+---
+
+
+#### Take a look to some interesting blogs
+
+* OpenAI API - A Quick overview with the technical aspects that you need to start developing. (https://dabumana.github.io/posts/2023-01-03-OpenAI-API/)
+
+* DAO Cluster Service - An initial cluster for solana development, ready for development. (https://dabumana.github.io/posts/2022-09-15-DAO-cluster-service-with-Solana/)
+
+* Custom Shaders in UE4/5 - How to develop custom shaders in UE4/5. (https://dabumana.github.io/posts/2022-08-30-Custom-shaders-in-UE/)
