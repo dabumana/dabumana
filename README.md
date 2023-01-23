@@ -4,11 +4,11 @@
 
 ---
 <a href="https://dabumana.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dabumana&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Dabumana's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dabumana&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Dabumana's GitHub Stats" />
 </a>
 
 <a href="https://dabumana.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabumana&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dabumana&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
 <a href="https://dabumana.github.io">
