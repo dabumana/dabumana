@@ -1,5 +1,4 @@
-## D A B U M A N A :blowfish:
-
+## @dabumana
 ### Part of the work in progress can be found in: https://dabumana.github.io/projects
 
 ---
