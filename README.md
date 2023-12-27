@@ -1,5 +1,5 @@
-## [@dabumana](https://dabumana.github.io) - SSA / SRE / RTO
-### Part of the work in progress can be found in: https://dabumana.github.io/projects
+## [@dabumana](https://not-a.xyz) - SSA / SRE / RTO
+### Part of the work in progress can be found in my personal [blog](https://not-a.xyz/)
 
 ---
 <a href="https://dabumana.github.io">
