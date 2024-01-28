@@ -18,8 +18,7 @@
 
 #### Take a look to some interesting blogs
 
-* OpenAI API - A Quick overview with the technical aspects that you need to start developing. (https://dabumana.github.io/posts/2023-01-03-OpenAI-API/)
-
-* DAO Cluster Service - An initial cluster for solana development, ready for development. (https://dabumana.github.io/posts/2022-09-15-DAO-cluster-service-with-Solana/)
-
-* Custom Shaders in UE4/5 - How to develop custom shaders in UE4/5. (https://dabumana.github.io/posts/2022-08-30-Custom-shaders-in-UE/)
+* https://not-a.xyz/articles/2023-12-26-Red-Team-Tools/
+* https://not-a.xyz/articles/2024-01-05-Architecture-fundamentals-for-RE/
+* https://not-a.xyz/articles/2024-01-15-DNS-Security-Guideline/
+  
