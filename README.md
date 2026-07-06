@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://dabumana.github.io">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dabumana&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dabumana&hide=cmake&langs_count=4&line_height=35&count_private=true&theme=dark" />
 </a>
 
 <a href="https://dabumana.github.io">
