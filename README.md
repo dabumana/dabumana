@@ -1,7 +1,6 @@
-## [@dabumana](https://not-a.xyz) - Cloud Security & IT Operations | Software and Hardware Programmer | Cyber Threat Intelligence and Hunting
-### Part of the work in progress can be found in my personal [blog](https://not-a.xyz/)
+## [@dabumana](https://not-a.xyz) 
+##### Cloud Security & IT Operations | Software and Hardware Programmer | Cyber Threat Intelligence and Hunting
 
----
 <a href="https://dabumana.github.io">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dabumana&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=dark" alt="Dabumana's GitHub Stats" />
 </a>
@@ -13,7 +12,6 @@
 <a href="https://dabumana.github.io">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabumana&theme=dark&line_height=40" />
 </a>
----
 
 #### Take a look to some interesting blogs
 * https://not-a.xyz/
