@@ -1,17 +1,17 @@
 ## [@dabumana](https://not-a.xyz) 
 ##### Cloud Security & IT Operations | Software and Hardware Programmer | Cyber Threat Intelligence and Hunting
 
-<a href="https://dabumana.github.io">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dabumana&show_icons=true&include_all_commits=true&line_height=40&count_private=true&theme=dark" alt="Dabumana's GitHub Stats" />
-</a>
+<div href="https://dabumana.github.io" align="center" style="width:100%;">
+  <img src="https://ghstats.dev/api/card?username=dabumana&theme=tokyonight&custom_title=Current+year&hide=issues%2Cfollowers" align="left" style="width:48%; height:auto;" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=dabumana&theme=tokyonight&max_langs=5" style="width:48%; height:auto;" alt="Top Languages" align="right"/>
+  <img src="https://ghstats.dev/api/card?username=dabumana&theme=tokyonight&custom_title=Streak&size=compact&compact_count=4&hide=issues%2Cfollowers" style="width:48%; height:auto;" alt="GitHub Stats Card" align="right"/>
+</div>
 
-<a href="https://dabumana.github.io">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dabumana&include_all_commits=true&hide=cmake&count_private=true&langs_count=5&line_height=40&theme=dark" />
-</a>
+### General Stats
 
-<a href="https://dabumana.github.io">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabumana&theme=dark&line_height=40" />
-</a>
+<div href="https://dabumana.github.io" align="center" style="width:100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabumana&theme=tokyonight" style="width:100%; height:auto;" />
+</div>
 
 #### Take a look to some interesting blogs
 * https://not-a.xyz/
